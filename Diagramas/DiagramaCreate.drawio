@@ -1,0 +1,91 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
+  <diagram name="Página-1" id="xwOyBr4DJYVqULbP8W8E">
+    <mxGraphModel grid="0" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#000000)" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YcqhOWdKCDR405_GyNRS-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=light-dark(default, #ffffff);" vertex="1" parent="1">
+          <mxGeometry x="115" y="120" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YcqhOWdKCDR405_GyNRS-2" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="306" y="77" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YcqhOWdKCDR405_GyNRS-3" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YcqhOWdKCDR405_GyNRS-4" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="452" y="192" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YcqhOWdKCDR405_GyNRS-5" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="247" y="545" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YcqhOWdKCDR405_GyNRS-6" value="Acessar Formulário de publicação" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="313" y="102" width="106" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YcqhOWdKCDR405_GyNRS-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.018;entryY=0.655;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YcqhOWdKCDR405_GyNRS-1" target="YcqhOWdKCDR405_GyNRS-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="388" y="375" as="sourcePoint" />
+            <mxPoint x="438" y="325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YcqhOWdKCDR405_GyNRS-8" value="Preencher dados do Item&amp;nbsp;(descrição, local, data, imagem)" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="459" y="222" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YcqhOWdKCDR405_GyNRS-9" value="" style="endArrow=none;html=1;rounded=0;exitX=0.977;exitY=0.723;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.228;entryY=0.056;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YcqhOWdKCDR405_GyNRS-2" target="YcqhOWdKCDR405_GyNRS-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="388" y="375" as="sourcePoint" />
+            <mxPoint x="438" y="325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YcqhOWdKCDR405_GyNRS-10" value="&amp;nbsp;Enviar publicação  " style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="285" width="114" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YcqhOWdKCDR405_GyNRS-11" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="401" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YcqhOWdKCDR405_GyNRS-12" value="Validar dados " style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="262.5" y="426" width="89" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YcqhOWdKCDR405_GyNRS-13" value="" style="endArrow=none;html=1;rounded=0;exitX=0.915;exitY=0.157;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="YcqhOWdKCDR405_GyNRS-3" target="YcqhOWdKCDR405_GyNRS-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="388" y="375" as="sourcePoint" />
+            <mxPoint x="438" y="325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YcqhOWdKCDR405_GyNRS-14" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YcqhOWdKCDR405_GyNRS-3" target="YcqhOWdKCDR405_GyNRS-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="388" y="375" as="sourcePoint" />
+            <mxPoint x="438" y="325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YcqhOWdKCDR405_GyNRS-15" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="236" y="354" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YcqhOWdKCDR405_GyNRS-16" value="Confirmar envio" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="258" y="570" width="98" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YcqhOWdKCDR405_GyNRS-17" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YcqhOWdKCDR405_GyNRS-11" target="YcqhOWdKCDR405_GyNRS-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="388" y="375" as="sourcePoint" />
+            <mxPoint x="438" y="325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YcqhOWdKCDR405_GyNRS-18" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="437" y="472" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YcqhOWdKCDR405_GyNRS-19" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.945;exitY=0.76;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.036;entryY=0.359;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YcqhOWdKCDR405_GyNRS-11" target="YcqhOWdKCDR405_GyNRS-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="388" y="375" as="sourcePoint" />
+            <mxPoint x="438" y="325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YcqhOWdKCDR405_GyNRS-20" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="399" y="436" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YcqhOWdKCDR405_GyNRS-21" value="Exibir mensagem de erro" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="444" y="497" width="106" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

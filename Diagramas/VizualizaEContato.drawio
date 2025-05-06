@@ -1,0 +1,56 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="26.2.14">
+  <diagram name="Página-1" id="OL_LDCQgaD2KiUabSl8v">
+    <mxGraphModel dx="864" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NhiFiXTrloDgon2P1Ml5-7" value="USUARIO" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="60" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NhiFiXTrloDgon2P1Ml5-8" value="VIZUALIZA" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="NhiFiXTrloDgon2P1Ml5-7">
+          <mxGeometry x="-0.6664" y="-16" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="270" as="sourcePoint" />
+            <mxPoint x="220" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="150" y="170" />
+              <mxPoint x="230" y="190" />
+              <mxPoint x="180" y="140" />
+              <mxPoint x="160" y="60" />
+            </Array>
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NhiFiXTrloDgon2P1Ml5-9" value="FEED DE ITENS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="120" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NhiFiXTrloDgon2P1Ml5-10" value="CLICA NO ITEM" style="endArrow=classic;html=1;rounded=0;exitX=1.008;exitY=0.617;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry x="-0.0067" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240.79999999999995" y="170.00000000000003" as="sourcePoint" />
+            <mxPoint x="290" y="240" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NhiFiXTrloDgon2P1Ml5-11" value="ITEM&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(NOME, TIPO E AUTOR)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="240" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NhiFiXTrloDgon2P1Ml5-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.867;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NhiFiXTrloDgon2P1Ml5-11" target="NhiFiXTrloDgon2P1Ml5-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NhiFiXTrloDgon2P1Ml5-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="250" as="sourcePoint" />
+            <mxPoint x="440" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NhiFiXTrloDgon2P1Ml5-16" value="ENTRA EM CONTATO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NhiFiXTrloDgon2P1Ml5-14">
+          <mxGeometry x="-0.46" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NhiFiXTrloDgon2P1Ml5-15" value="DONO DO POST" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="170" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
